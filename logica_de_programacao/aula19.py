@@ -1,6 +1,6 @@
 # Operadores relacionais
 """
-Operadores de comparação (relacionais)
+Operadores de comparação 
 OP      Significado     Exemplo
 >       Maior           2 > 1
 >=      Maior ou igual  2 >= 2
